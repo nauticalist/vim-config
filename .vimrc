@@ -5,6 +5,11 @@ set number
 set t_Co=256
 filetype plugin indent on
 set mouse=a
+
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
 " change to current file dir
 set autochdir
 
